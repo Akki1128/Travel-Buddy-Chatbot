@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Node.js specific (for frontend)
+/frontend/node_modules
+/frontend/dist
+# For create-react-app users, though Vite uses 'dist'
+/frontend/build 
