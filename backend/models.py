@@ -3,7 +3,7 @@ from typing import List, Literal, Optional
 
 #Defines a single message in the chat history
 class Message(BaseModel):
-    role: Literal["user","assistant"]
+    role: Literal["user","model"]
     parts: List[str]
 
 # Defines the structure of the request coming from the frontend
