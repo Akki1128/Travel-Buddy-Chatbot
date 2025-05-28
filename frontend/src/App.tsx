@@ -1,7 +1,7 @@
 // frontend/src/App.tsx
 import { useState, useRef, useEffect } from 'react';
-import './App.css'; // Make sure this CSS file exists for basic styling
-import { sendMessageToBot, type Message } from './api'; // Import your API function
+import './App.css'; 
+import { sendMessageToBot, type Message } from './api'; 
 
 // Define the interface for a chat message
 interface ChatMessage {
