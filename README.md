@@ -32,4 +32,4 @@ Your personal AI-powered chatbot travel planning assistant, powered by React (Fr
 * Instant travel advice & itinerary planning.
 * Friendly "Travel Buddy" persona.
 
-![Travel Buddy Chatbot Screenshot](images/chatbot_screenshot.png)
+![Travel Buddy Chatbot Screenshot](images/Chatbot_screenshot.png)
